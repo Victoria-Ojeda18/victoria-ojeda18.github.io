@@ -1,0 +1,22 @@
+/* Bootstrap Icons v1.5.0 1.5.0 License: MIT License (https://github.com/twbs/icons/blob/main/LICENSE) */ 
+
+@font-face {
+  font-family: 'Bootstrap Icons';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/bootstrap-icons.woff2') format('woff2'),
+       url('../fonts/bootstrap-icons.woff') format('woff'),
+       url('../fonts/bootstrap-icons.ttf') format('truetype');
+}
+
+.bi {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+.bi-* {
+  /* Add your icon styles here */
+}
